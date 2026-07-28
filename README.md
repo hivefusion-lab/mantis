@@ -1,10 +1,10 @@
 # Mantis
 
 <p align="center">
-  <img src="./Mantis.png" alt="Mantis" width="600">
+  <a href="https://lab.hivefusion.in/mantis"> <img src="./Mantis.png" alt="Mantis" width="600"> </a>
 </p>
 
-Mantis is an open-source USB automation platform built by HiveFusion Lab. It allows you to create and run automation scripts on a simple STM32 Blue Pill development board with an external SPI flash memory.
+USB Mantis is an open-source USB HID platform built by Hivefusion Lab. It allows you to create and run scripts on a simple STM32 Blue Pill development board with an external SPI flash memory.
 
 > **Note:** The firmware source code is currently not available. This repository provides the official firmware releases, documentation, and setup guides.
 ---
