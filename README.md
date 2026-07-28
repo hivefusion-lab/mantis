@@ -19,13 +19,28 @@ https://lab.hivefusion.in/mantis-documentation
 
 ---
 
-# Features
+## Features
 
-* USB automation
-* Easy firmware updates
-* External SPI flash storage
-* DIY friendly hardware
-* Open-source hardware platform
+- **Plug-and-Play Design**  
+  Direct USB-A form factor that plugs straight into your computer. No external cables or adapters required.
+
+- **Standard USB HID & CDC Support**  
+  Appears as a standard USB keyboard and CDC serial device on Windows, macOS, and Linux without requiring additional drivers.
+
+- **Onboard Script Storage**  
+  Payloads are stored directly on the integrated SPI flash memory, eliminating the need for an external SD card.
+
+- **HDC & Ducky Script Compatible**  
+  Create and run payloads using HDC, with compatibility for Ducky Script syntax.
+
+- **Built for DIY**  
+  Powered by an STM32 Blue Pill development board with external SPI flash, making it easy to build using readily available components.
+
+- **Simple Controls**  
+  Includes a status LED and hardware buttons for mode selection and user interaction.
+
+- **HiveFusion Studio Integration**  
+  Flash firmware, upload payloads, and manage your device through HiveFusion Studio over USB.
 
 ---
 
