@@ -39,8 +39,8 @@ https://lab.hivefusion.in/mantis-documentation
 - **Simple Controls**  
   Includes a status LED and hardware buttons for mode selection and user interaction.
 
-- **HiveFusion Studio Integration**  
-  Flash firmware, upload payloads, and manage your device through HiveFusion Studio over USB.
+- **Hivefusion Studio Integration**  
+  Flash firmware, upload payloads, and manage your device through Hivefusion Studio over USB.
 
 ---
 
@@ -148,6 +148,6 @@ https://lab.hivefusion.in/mantis
 
 # License
 
-The firmware binaries in this repository are provided by HiveFusion Lab.
+The firmware binaries in this repository are provided by Hivefusion Lab.
 
 The source code is not included at this time.
