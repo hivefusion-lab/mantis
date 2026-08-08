@@ -52,6 +52,11 @@ https://lab.hivefusion.in/mantis-documentation
 * ST-Link or USB-to-UART programmer (for flashing firmware)
 
 ---
+# Diagram
+
+<p align="centre">
+  <img src="./diagram.png" alt="Mantis wiring diagram">
+</p>
 
 # Wiring
 
